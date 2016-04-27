@@ -1,2 +1,4 @@
 # hello-world
-A new start
+
+Today is the first time I use github.
+2016/4/27
